@@ -20,7 +20,7 @@ A Spring Boot application that provides paginated user data with search function
 
 ### 1. Clone and Build
 ```bash
-git clone <repository-url>
+git clone https://github.com/tndmln/tndz-porto.git
 cd pagination-api
 mvn clean package
 ```
