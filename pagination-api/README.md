@@ -121,12 +121,6 @@ The API returns appropriate HTTP status codes:
 - `500 Internal Server Error` - External API or network issues
 - `200 OK` - Successful requests
 
-## Testing
-
-Run the test suite:
-```bash
-mvn test
-```
 
 ## Project Structure
 
